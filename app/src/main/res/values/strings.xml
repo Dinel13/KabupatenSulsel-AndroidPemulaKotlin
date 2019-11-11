@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">kabSulsel</string>
+    <string name="name_kab">Nama Kabupaten</string>
+    <string name="content_main">Berikut daftar kabupaten di Sulawesi Selatan</string>
+    <string name="kab_identity">Identitas Kabupaten</string>
+    <string name="overview">Overview Kabupaten</string>
+    <string name="content_overview">content overview</string>
+    <string name="content_identity">content identity</string>
+    <string name="title_identity">Bupati \nLuas \nPenduduk \nKecamatan \nKelurahan \nDesa </string>
+    <string name="name_me">Fiqri Abdullah </string>
+    <string name="email_me">erinadwir01@gmail.com</string>
+    <string name="list">List mode</string>
+    <string name="grid">Grid mode</string>
+    <string name="with_cardview">Card mode</string>
+    <string name="about">About</string>
+    <string name="ibu_kota">ibu kota</string>
+</resources>
